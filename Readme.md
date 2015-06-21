@@ -7,6 +7,8 @@ Usage
 Download script.
 
 Add it to yor page and init with list of pages and their description.
+
+[Example.](http://aalexeev239.github.io/tableOfPages/example/)
 ```
 <script src="scripts/tableOfPages.js"></script>
 <script>
