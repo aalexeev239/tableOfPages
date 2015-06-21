@@ -1,6 +1,6 @@
 tableOfPages.js
 ===========
-Simple script, generating a table of available pages in your project.
+Simple script, adding a table of available pages to your project.
 
 Usage
 ===========
